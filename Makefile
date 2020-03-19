@@ -1,4 +1,4 @@
-SRC=xv6-riscv-src/
+SRC=../xv6-riscv/
 
 T=latex.out
 
